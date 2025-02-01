@@ -25,7 +25,7 @@ Navigate through the assignments by changing the branch.
   </tr>
 </table>
     
-- [Study Group #2 - Intermediate Javascript]()
+- [Study Group #2 - Intermediate Javascript](https://github.com/Athallahzaki/GDGoC-Web_Development/tree/Study-Group-1)
 
 <table style="width:100%">
   <tr>
