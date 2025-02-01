@@ -3,12 +3,12 @@
 
 All my web deveopment assignment stored in one place.
 
-Navigate through the assignments by changing the branch.
+Navigate through the assignments by navigating through the folders.
 ## Assignments List
 
 ### Study Group
 
-- [Study Group #1 - HTML, CSS, & JavaScript]()
+- [Study Group #1 - HTML, CSS, & JavaScript](Study-Group-1)
 
 <table style="width:100%">
   <tr>
