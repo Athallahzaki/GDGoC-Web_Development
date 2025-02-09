@@ -42,6 +42,23 @@ Navigate through the assignments by navigating through the folders.
   </tr>
 </table>
 
+- [Study Group #3 - React With Vite](Study-Group-3)
+
+<table style="width:100%">
+  <tr>
+    <th>Presentation Link</th>
+    <td>https://docs.google.com/presentation/d/12992gk0aO5an-w8ZcXGFnW3V0mGwTLAKs7PRnLfepVA/edit?usp=sharing</td>
+  </tr>
+  <tr>
+    <th>GitHub Link</th>
+    <td>https://github.com/GDGoCTelu/web_3_react</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>Simple Todo List using React and Vite Library</td>
+  </tr>
+</table>
+
 ## Author
 
 - [@Athallahzaki](https://github.com/Athallahzaki)
