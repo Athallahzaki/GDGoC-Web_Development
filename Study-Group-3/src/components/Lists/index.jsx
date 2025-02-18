@@ -42,7 +42,7 @@ function ListItem({ children, onEdit, id, onDelete }) {
           onClick={() => {
             onDelete(id);
           }}
-          className='button'
+          className='button button-danger'
         >
           Delete
         </button>
