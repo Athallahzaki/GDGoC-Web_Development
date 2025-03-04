@@ -59,6 +59,23 @@ Navigate through the assignments by navigating through the folders.
   </tr>
 </table>
 
+- [Study Group #4 - React With Tailwind](Study-Group-4)
+
+<table style="width:100%">
+  <tr>
+    <th>Presentation Link</th>
+    <td>https://docs.google.com/presentation/d/1u4Iwx1kpp6lDWFuHg3NziM5HM7HmIPbtsuPBtcwW0Bk/edit?usp=sharing</td>
+  </tr>
+  <tr>
+    <th>GitHub Link</th>
+    <td>https://github.com/GDGoCTelu/study-group-6-Web-Developement-React-with-Tailwind</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>Simple Todo List using React and Vite Library, With Added Tailwind Styling</td>
+  </tr>
+</table>
+
 ## Author
 
 - [@Athallahzaki](https://github.com/Athallahzaki)
