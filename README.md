@@ -76,6 +76,23 @@ Navigate through the assignments by navigating through the folders.
   </tr>
 </table>
 
+- [Study Group #5 - React With Firebase](Study-Group-5)
+
+<table style="width:100%">
+  <tr>
+    <th>Presentation Link</th>
+    <td>https://docs.google.com/presentation/d/10xU-kheX0kLkY1NEQV0JJAfQF8HSowAnRA2GwX4yqKU/edit?usp=sharing</td>
+  </tr>
+  <tr>
+    <th>GitHub Link</th>
+    <td>https://github.com/Reynadi531/web_5_react_with_firebase</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>Simple Todo List using React and Vite Library, Stored todo data in Firebase Firestore</td>
+  </tr>
+</table>
+
 ## Author
 
 - [@Athallahzaki](https://github.com/Athallahzaki)
