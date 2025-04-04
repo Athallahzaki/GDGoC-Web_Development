@@ -93,6 +93,19 @@ Navigate through the assignments by navigating through the folders.
   </tr>
 </table>
 
+- [Tugas Besar Study Group - Aplikasi Dashboard CRUD](https://github.com/Athallahzaki/Dashboard_React-GDGoC)
+
+<table style="width:100%">
+  <tr>
+    <th>Instruction Link</th>
+    <td>https://drive.google.com/file/d/1lvGu6mel-HNUM3Hq6jNBh9UECgPyt7sg/view?usp=sharing</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>Website Application for Dashboard CRUD</td>
+  </tr>
+</table>
+
 ## Author
 
 - [@Athallahzaki](https://github.com/Athallahzaki)
