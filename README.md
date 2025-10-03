@@ -109,4 +109,5 @@ Navigate through the assignments by navigating through the folders.
 ## Author
 
 - [@Athallahzaki](https://github.com/Athallahzaki)
-
+- All GDGoC Members and Staffs
+- Telkom University
