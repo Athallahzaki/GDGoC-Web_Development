@@ -93,7 +93,7 @@ Navigate through the assignments by navigating through the folders.
   </tr>
 </table>
 
-- [Tugas Besar Study Group - Aplikasi Dashboard CRUD](https://github.com/Athallahzaki/Dashboard_React-GDGoC)
+- [Tugas Besar Study Group - Aplikasi Dashboard CRUD](https://github.com/Athallahzaki/TravelApp_GDGoC)
 
 <table style="width:100%">
   <tr>
